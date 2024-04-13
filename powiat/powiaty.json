@@ -1,0 +1,117 @@
+{
+    "Bialski": {
+        "woj": "Lubelskie",
+        "tablica": "LBI",
+        "rodzaj": "ziemski grodzki"
+    },
+
+    "Garwoliński": {
+        "woj": "Mazowieckie",
+        "tablica": "WG"
+    },
+
+    "Hrubieszowski": {
+        "woj": "Lubelskie",
+        "tablica": "LHR"
+    },
+
+    "Kielce": {
+        "woj": "Świętokrzyskie",
+        "tablica": "TK"
+    },
+    
+    "Bolesławski": {
+        "woj": "Dolnośląskie",
+        "tablica": "DBL"
+    },
+
+    "Radziejowski": {
+        "woj": "Kujawsko-pomorskie",
+        "tablica": "CRA"
+    },
+    
+    "Tucholski": {
+        "woj": "Kujawsko-pomorskie",
+        "tablica": "CTU"
+    },
+
+    "Bełchatowski": {
+        "woj": "Łódzkie",
+        "tablica": "EBE"
+    },
+    
+    "Skierniewicki": {
+        "woj": "Łódzkie",
+        "tablica": "ESK"
+    },
+
+    "Poddębicki": {
+        "woj": "Łódzkie",
+        "tablica": "EPD"
+    },
+    
+    "Gorlicki": {
+        "woj": "Małopolski",
+        "tablica": "KBR"
+    },
+
+    "Tatrzański": {
+        "woj": "Małopolski",
+        "tablica": "KTT"
+    },
+    
+    "Żuromiński": {
+        "woj": "Mazowieckie",
+        "tablica": "WZU"
+    },
+
+    "Brzeski": {
+        "woj": "Opolskie",
+        "tablica": "OB"
+    },
+    
+    "Rzeszów": {
+        "woj": "Podkarpackie",
+        "tablica": "RZ"
+    },
+
+    "Suwałki": {
+        "woj": "Podlaskie",
+        "tablica": "BS"
+    },
+    
+    "Gdynia": {
+        "woj": "Pomorskie",
+        "tablica": "GA"
+    },
+
+    "Gryficki": {
+        "woj": "Zachodnio-pomorskie",
+        "tablica": "ZGY"
+    },
+    
+    "Kalisz": {
+        "woj": "Wielkopolskie",
+        "tablica": "PK"
+    },
+
+    "Bartoszycki": {
+        "woj": "Warmińsko-mazurskie",
+        "tablica": "NBA"
+    },
+    
+    "Bytom": {
+        "woj": "Śląskie",
+        "tablica": "SY"
+    },
+
+    "Raciborski": {
+        "woj": "Śląskie",
+        "tablica": "SRC"
+    },
+    
+    "Gliwice": {
+        "woj": "Śląskie",
+        "tablica": "SG"
+    }
+}
